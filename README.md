@@ -1,4 +1,4 @@
-# orderffee
+# Orderffee
 ## Introducción
 Sistema de comandas para una cafetería, donde se registrará todo el proceso con respecto a la carga de órdenes de pedidos por los clientes.
 Se pensó en un hipotético caso en el que un dueño de un pequeña cafetería solicita un sistema a medida para su negocio.
