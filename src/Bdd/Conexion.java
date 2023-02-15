@@ -5,7 +5,7 @@ import java.sql.Connection;
 import javax.swing.JOptionPane;
 
 public class Conexion {
-    private final String nomBdd = "jdbc:mysql://LocalHost:3307/orderffee";
+    private final String nomBdd = "jdbc:mysql://localhost:3307/orderffee";
     private final String usu = "root";    
     private final String clave = "";
     private String Driver = "com.mysql.jdbc.Driver";
