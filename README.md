@@ -42,14 +42,14 @@ observar el historial de comandas realizadas.
 ![comfin](https://github.com/ezvel/orderffee/blob/main/src/Imagenes/comfin.PNG
 )
 
-### Agregar, eliminar o modificar productos (solo área de supervisión)
-![prod](https://github.com/ezvel/orderffee/blob/main/src/Imagenes/prod.PNG)
-
 ## Configuraciones
 En la sección configuraciones se podrá buscar, modificar, agregar y eliminar productos (hecho solo por el supervisor).
 En la sección operadores se podrá modificar los datos del operador o supervisor conectado en ese momento. Por otro lado, se podrá eliminar operadores en caso
 de renuncia o despido, cuya labor de elimnación del sistema solo será hecho por el supervisor. De la misma manera con los supervisores, a diferencia, que el supervisor
 solo puede eliminarse a si mismo.
+
+### Agregar, eliminar o modificar productos (solo área de supervisión)
+![prod](https://github.com/ezvel/orderffee/blob/main/src/Imagenes/prod.PNG)
 
 ### Operador
 ![ope](https://github.com/ezvel/orderffee/blob/main/src/Imagenes/ope.PNG)
