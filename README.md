@@ -6,6 +6,9 @@ El mismo consta de 9 mesas, 2 camareros, 1 barista y un operador que se encargar
 
 ## Desarrollo
 
+###Seleccionar mesa
+![selmesa](https://github.com/ezvel/orderffee/blob/main/src/Imagenes/selmesa.PNG)
+
 El sistema comenzará con el registro y logueo de los empleados que utilizarán el sistema. 
 Los empleados son el operador y el supervisor. El operador tendrá facultades que el supervisor no tendrá, y el supervisor tendrá facultades que 
 el operador no tendrá. Todas estas restricciones necesarias según los requerimientos son suplidas por Orderffee.
